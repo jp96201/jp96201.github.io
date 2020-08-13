@@ -1,71 +1,183 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2020/07/10/hello-world/"/>
-      <url>/2020/07/10/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>STATS- Descriptive Statistics</title>
-      <link href="/2020/07/10/STATS-%20Descriptive%20Statistics/"/>
-      <url>/2020/07/10/STATS-%20Descriptive%20Statistics/</url>
-      
-        <content type="html"><![CDATA[<h1 id="STATS-Descriptive-Statistics"><a href="#STATS-Descriptive-Statistics" class="headerlink" title="STATS: Descriptive Statistics"></a>STATS: Descriptive Statistics</h1><h2 id="2-1-Summarizing-Categorical-Data"><a href="#2-1-Summarizing-Categorical-Data" class="headerlink" title="2.1 Summarizing Categorical Data"></a>2.1 Summarizing Categorical Data</h2><p>“<strong>nonoverlapping</strong> classes”.</p><h3 id="Frequency-Distribution"><a href="#Frequency-Distribution" class="headerlink" title="Frequency Distribution"></a>Frequency Distribution</h3><h3 id="Relative-Frequency-and-Percent-Frequency-Distributions"><a href="#Relative-Frequency-and-Percent-Frequency-Distributions" class="headerlink" title="Relative Frequency and Percent Frequency Distributions"></a>Relative Frequency and Percent Frequency Distributions</h3><h3 id="Bar-Charts-amp-Pie-Charts"><a href="#Bar-Charts-amp-Pie-Charts" class="headerlink" title="Bar Charts &amp; Pie Charts"></a>Bar Charts &amp; Pie Charts</h3><h2 id="2-2-Summarizing-Quantitative-Data"><a href="#2-2-Summarizing-Quantitative-Data" class="headerlink" title="2.2 Summarizing Quantitative Data"></a>2.2 Summarizing Quantitative Data</h2><h3 id="Frequency-Distribution-1"><a href="#Frequency-Distribution-1" class="headerlink" title="Frequency Distribution"></a>Frequency Distribution</h3><p>The three steps necessary to define the classes for a frequency distribution with quantitative data are:</p><ol><li>Determine the number of nonoverlapping classes.<ul><li>5~20 classes. (depends on the size of the data)</li></ul></li><li>Determine the width of each class.<ul><li>we recommend that the width be the same for each class.</li><li>Approximate class <strong>width 􏰔 = Largest data value 􏰀- Smallest data value / Number of classes</strong> (can be rounded for convenience)</li></ul></li><li>Determine the class limits.<br>(optional: class midpoint).</li></ol><h3 id="Relative-Frequency-and-Percent-Frequency-Distributions-1"><a href="#Relative-Frequency-and-Percent-Frequency-Distributions-1" class="headerlink" title="Relative Frequency and Percent Frequency Distributions"></a>Relative Frequency and Percent Frequency Distributions</h3><h3 id="Dot-Plot"><a href="#Dot-Plot" class="headerlink" title="Dot Plot"></a>Dot Plot</h3><h3 id="Histogram"><a href="#Histogram" class="headerlink" title="Histogram"></a>Histogram</h3><ul><li>Left/Right/Symmetric skew</li></ul><h3 id="Cumulative-Distributions"><a href="#Cumulative-Distributions" class="headerlink" title="Cumulative Distributions"></a>Cumulative Distributions</h3><p>(&lt;= upper limit of each class)</p><h3 id="Ogive"><a href="#Ogive" class="headerlink" title="Ogive"></a>Ogive</h3><h2 id="2-3-Exploratory-Data-Analysis-The-Stem-and-Leaf-Display"><a href="#2-3-Exploratory-Data-Analysis-The-Stem-and-Leaf-Display" class="headerlink" title="2.3 Exploratory Data Analysis: The Stem-and-Leaf Display"></a>2.3 Exploratory Data Analysis: The Stem-and-Leaf Display</h2><h2 id="2-4-Crosstabulations-and-Scatter-Diagrams"><a href="#2-4-Crosstabulations-and-Scatter-Diagrams" class="headerlink" title="2.4 Crosstabulations and Scatter Diagrams"></a>2.4 Crosstabulations and Scatter Diagrams</h2><h3 id="Crosstabulations"><a href="#Crosstabulations" class="headerlink" title="Crosstabulations"></a>Crosstabulations</h3>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Statistics for Business</title>
-      <link href="/2020/07/08/Statistics%20for%20Business/"/>
-      <url>/2020/07/08/Statistics%20for%20Business/</url>
-      
-        <content type="html"><![CDATA[<h1 id="Statistics-for-Business"><a href="#Statistics-for-Business" class="headerlink" title="Statistics for Business"></a>Statistics for Business</h1><h1 id="Chapter-1-Data-and-Statistics"><a href="#Chapter-1-Data-and-Statistics" class="headerlink" title="Chapter 1 Data and Statistics"></a>Chapter 1 Data and Statistics</h1><h2 id="Philosophy-of-Statistics"><a href="#Philosophy-of-Statistics" class="headerlink" title="Philosophy of Statistics"></a>Philosophy of Statistics</h2><ul><li>Bayesians: <strong>Belief</strong> question;</li><li>Classical/Error statistics: <strong>decision</strong> question;</li><li>Likelihood: <strong>evidence</strong> question;</li><li>AIC: <strong>prediction</strong> question</li></ul><h2 id="Applications-in-Business-and-Economics"><a href="#Applications-in-Business-and-Economics" class="headerlink" title="Applications in Business and Economics"></a>Applications in Business and Economics</h2><h3 id="Accounting"><a href="#Accounting" class="headerlink" title="Accounting"></a>Accounting</h3><p>e.g. Client’s balance sheet acceptable? Sample.</p><h3 id="Finance"><a href="#Finance" class="headerlink" title="Finance"></a>Finance</h3><p>e.g. Investment recommendations.<br>dividend yiled above average -&gt; maybe underpriced.</p><h3 id="Marketing"><a href="#Marketing" class="headerlink" title="Marketing"></a>Marketing</h3><p>e.g. Manufacture purchase sales data -&gt; promotions.</p><h3 id="Production"><a href="#Production" class="headerlink" title="Production"></a>Production</h3><p>e.g. x-bar chart control production process.</p><h3 id="Economics"><a href="#Economics" class="headerlink" title="Economics"></a>Economics</h3><p>e.g. Make forecasts.</p><ul><li>Inflation rates</li><li>Producer Price Index (PPI), the unemployment rates, manufacturing capacity utilization.</li></ul><h2 id="Data"><a href="#Data" class="headerlink" title="Data"></a>Data</h2><ul><li>Q: What is data? What is not?</li></ul><p>Facts and figures. //so <strong>true and complete</strong> matters…</p><p>(Below is not information, but the <em>features of data itself</em>.)</p><h3 id="Elements-Variables-and-Observations"><a href="#Elements-Variables-and-Observations" class="headerlink" title="Elements, Variables, and Observations"></a>Elements, Variables, and Observations</h3><p>Any data, it’s very important to understand what it is about — variables.</p><h3 id="Scales-of-Measurement"><a href="#Scales-of-Measurement" class="headerlink" title="Scales of Measurement"></a>Scales of Measurement</h3><ol><li>Nominal (even numeric, still <strong>nominal</strong> data)</li><li>Ordinal (<strong>properties</strong> of a categorical data: categorical + can be ranked)</li><li>Interval scale (interval meaningful)</li><li>Ratio scale</li></ol><h3 id="Categorical-and-Quantitative-Data"><a href="#Categorical-and-Quantitative-Data" class="headerlink" title="Categorical and Quantitative Data"></a>Categorical and Quantitative Data</h3><ul><li>Categorical data: can be grouped as categories (See Chapter 2)<ul><li>Arithmetic not meaningful.</li></ul></li><li>Quantative data  (See Chapter 3)<ul><li>Arithmetic meaningful.</li></ul></li></ul><h3 id="Cross-Sectional-and-Time-Series-Data"><a href="#Cross-Sectional-and-Time-Series-Data" class="headerlink" title="Cross-Sectional and Time Series Data"></a>Cross-Sectional and Time Series Data</h3><p>Cross-Sectional: at same time.</p><h2 id="Data-Sources"><a href="#Data-Sources" class="headerlink" title="Data Sources"></a>Data Sources</h2><h3 id="Existing-Sources"><a href="#Existing-Sources" class="headerlink" title="Existing Sources"></a>Existing Sources</h3><p>Data companies: Dun &amp; Bradstreet, Bloomberg, and Dow Jones &amp; Company are three firms that provide extensive business database services to clients.</p><p>Internet</p><p>Government agencies: e.g. the U.S. Department of Labor maintains considerable data on employment rates, wage rates, size of the labor force, and union membership.</p><h3 id="Statistical-Studies"><a href="#Statistical-Studies" class="headerlink" title="Statistical Studies"></a>Statistical Studies</h3><ul><li>Experimental<ul><li>identify variables (interests)</li><li>effects between variables</li><li>control</li></ul></li><li>Observational<ul><li>no attempt to control the variables of interest</li></ul></li></ul><p>Data acquisition: requirements + time cost matters.</p><h3 id="Data-Acqusition-Errors"><a href="#Data-Acqusition-Errors" class="headerlink" title="Data Acqusition Errors"></a>Data Acqusition Errors</h3><p>Wrong data worse than no data!<br>Experienced data analysts <strong>take great care</strong> in collecting and recording data to ensure that errors are not made.</p><ul><li>Error during collection<ul><li>Interviewee misinterpret the questions;</li><li>Recording error;</li><li>Outliers;</li><li>Meaningless error (e.g. 20+ years old people has 20 years work experience);</li></ul></li></ul><h2 id="Descriptive-Statistics"><a href="#Descriptive-Statistics" class="headerlink" title="Descriptive Statistics"></a>Descriptive Statistics</h2><p>bar chart, histogram, etc.</p><h2 id="Statistical-Inferences"><a href="#Statistical-Inferences" class="headerlink" title="Statistical Inferences"></a>Statistical Inferences</h2><ul><li>Population and sample</li><li>Census</li><li>Sample survey</li><li>Statistical inference<ul><li>Population mean is unknown -&gt; Sample mean is known (Sample mean =&gt; Population mean)</li><li>Margin of error? Confidence level?</li></ul></li></ul><h2 id="Computers-and-Statistical-Analysis"><a href="#Computers-and-Statistical-Analysis" class="headerlink" title="Computers and Statistical Analysis"></a>Computers and Statistical Analysis</h2><h2 id="Data-Mining"><a href="#Data-Mining" class="headerlink" title="Data Mining"></a>Data Mining</h2><p><strong>data warehousing</strong><br>One of the definition of data mining: </p><blockquote><p>the <strong>automated</strong> extraction of <strong>predictive</strong> information from (large) databases.</p></blockquote><p>Relationships in the data and predicting future outcomes.<br>Be careful over-fitting.</p><h2 id="Ethical"><a href="#Ethical" class="headerlink" title="Ethical"></a>Ethical</h2><p>to be <strong>fair, thorough, objective, and neutral</strong> as you collect data, conduct analyses, make oral presentations, and present written reports containing information developed.</p><p><strong>When you see statistics in</strong> newspapers, on television, on the Internet, and so on, it is a good idea to view the information with <strong>some scepticism</strong>, always being aware of the source as well as the<br>purpose and objectivity of the statistics provided.</p><p>e.g. Misleading analysis. Bulbs example. Should stated.</p><blockquote><p>statistical practitioners should avoid any tendency to slant statistical work toward <strong>predetermined</strong> outcomes.<br>e.g. unrepresentative samples are used to make claims.</p></blockquote>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Linux commands</title>
-      <link href="/2020/05/08/Most%20commonly%20used%20Linux%20commands/"/>
-      <url>/2020/05/08/Most%20commonly%20used%20Linux%20commands/</url>
-      
-        <content type="html"><![CDATA[<h1 id="Most-commonly-used-Linux-commands"><a href="#Most-commonly-used-Linux-commands" class="headerlink" title="Most commonly used Linux commands"></a>Most commonly used Linux commands</h1><h2 id="Git"><a href="#Git" class="headerlink" title="Git"></a>Git</h2><h3 id="Local-files-gt-Local-Git-Repo"><a href="#Local-files-gt-Local-Git-Repo" class="headerlink" title="Local files -&gt; Local Git Repo"></a>Local files -&gt; Local Git Repo</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">cd project_folder</span><br><span class="line">git init</span><br><span class="line">git add . (git add aFile)</span><br><span class="line">git commit -m &quot;Initial commit&quot;</span><br></pre></td></tr></table></figure><a id="more"></a><h3 id="Local-Git-Repo-gt-Remote-Git-Fork"><a href="#Local-Git-Repo-gt-Remote-Git-Fork" class="headerlink" title="Local Git Repo -&gt; Remote Git Fork"></a>Local Git Repo -&gt; Remote Git Fork</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git remote add origin git@github.com:xxx&#x2F;xxx.git</span><br><span class="line">(git remote rm origin)</span><br><span class="line">git push -u origin master.</span><br></pre></td></tr></table></figure><p>Update commit changes</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">git status</span><br><span class="line">git add .</span><br><span class="line">git commit -m &quot;xxx&quot;</span><br><span class="line">git push -u origin master</span><br></pre></td></tr></table></figure><h3 id="Remote-Git-Fork-gt-Local-Git-Repo"><a href="#Remote-Git-Fork-gt-Local-Git-Repo" class="headerlink" title="Remote Git Fork -&gt; Local Git Repo"></a>Remote Git Fork -&gt; Local Git Repo</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git pull origin master</span><br></pre></td></tr></table></figure><p>Branch </p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git branch new_branch</span><br><span class="line">git checkout -b new_branch</span><br></pre></td></tr></table></figure><p>Merge Branch</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git checkout branch_1</span><br><span class="line">git merge branch_2</span><br></pre></td></tr></table></figure><p>Show All Branches</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git branch -a</span><br></pre></td></tr></table></figure><h2 id="Kill-process"><a href="#Kill-process" class="headerlink" title="Kill process"></a>Kill process</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">lsof -i:Port</span><br><span class="line">Kill -9 PID</span><br></pre></td></tr></table></figure><p>Script:</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">#!&#x2F;bin&#x2F;bash</span><br><span class="line">lsof -i :4000 | awk &#39;&#123;print $2&#125;&#39;&gt; tmp</span><br><span class="line">pid&#x3D;$(awk &#39;NR&#x3D;&#x3D;2&#123;print&#125;&#39; tmp);</span><br><span class="line"># kill process if its PID exists</span><br><span class="line">if [  -n  &quot;$pid&quot;  ];  then</span><br><span class="line"> kill  -9  $pid;</span><br><span class="line">fi</span><br></pre></td></tr></table></figure><h2 id="What-is-my-IP-Address"><a href="#What-is-my-IP-Address" class="headerlink" title="What is my IP Address?"></a>What is my IP Address?</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">curl https:&#x2F;&#x2F;ipinfo.io&#x2F;ip</span><br></pre></td></tr></table></figure><h2 id="Download-and-Upload"><a href="#Download-and-Upload" class="headerlink" title="Download and Upload"></a>Download and Upload</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">Remote &#x3D;&gt; Local: </span><br><span class="line">scp -P port remoteuser@ip:file_path local_path</span><br><span class="line">Local &#x3D;&gt; Remote:</span><br><span class="line">scp &#x2F;path&#x2F;to&#x2F;local&#x2F;file username@hostname:&#x2F;path&#x2F;to&#x2F;remote&#x2F;file</span><br><span class="line">Remote &#x3D;&gt; Remote</span><br><span class="line">scp username1@hostname1:&#x2F;path&#x2F;to&#x2F;file username2@hostname2:&#x2F;path&#x2F;to&#x2F;other&#x2F;file</span><br></pre></td></tr></table></figure><h2 id="Compress-and-Extract"><a href="#Compress-and-Extract" class="headerlink" title="Compress and Extract"></a>Compress and Extract</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">tar -zcvf xxx</span><br><span class="line">tar xvzf file.tar.gz</span><br></pre></td></tr></table></figure><p><a href="https://www.jianshu.com/p/7104c1f57a8e" target="_blank" rel="noopener">See more</a></p><h2 id="Vim-Editor"><a href="#Vim-Editor" class="headerlink" title="Vim Editor"></a>Vim Editor</h2><ul><li>: 进入命令模式</li><li>wq 保存&amp;退出</li><li>/ 查找模式</li><li>i 插入模式（插入结束Esc）</li></ul><h3 id="Copy-and-Paste"><a href="#Copy-and-Paste" class="headerlink" title="Copy and Paste"></a>Copy and Paste</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">copy the whole file :%w !pbcopy</span><br><span class="line">past from the clipboard :r !pbpaste</span><br></pre></td></tr></table></figure><h3 id="Delete-lines"><a href="#Delete-lines" class="headerlink" title="Delete lines"></a>Delete lines</h3><p><a href="https://linoxide.com/linux-how-to/how-to-delete-line-vim-linux/" target="_blank" rel="noopener">Delete lines</a></p><h3 id="More"><a href="#More" class="headerlink" title="More"></a>More</h3><p><img src="http://www.viemu.com/vi-vim-cheat-sheet.gif" alt="Cheat Sheet"><br><a href="https://danielmiessler.com/study/vim/" target="_blank" rel="noopener">Vim Tutorial</a></p><h2 id="More-1"><a href="#More-1" class="headerlink" title="More"></a>More</h2><p><a href="https://juejin.im/post/5d6cb968e51d4561e721df3c" target="_blank" rel="noopener">https://juejin.im/post/5d6cb968e51d4561e721df3c</a></p>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>Linux commands</title>
+    <url>/2020/05/08/Most%20commonly%20used%20Linux%20commands/</url>
+    <content><![CDATA[<h1 id="Most-commonly-used-Linux-commands"><a href="#Most-commonly-used-Linux-commands" class="headerlink" title="Most commonly used Linux commands"></a>Most commonly used Linux commands</h1><h2 id="Git"><a href="#Git" class="headerlink" title="Git"></a>Git</h2><h3 id="Local-files-gt-Local-Git-Repo"><a href="#Local-files-gt-Local-Git-Repo" class="headerlink" title="Local files -&gt; Local Git Repo"></a>Local files -&gt; Local Git Repo</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cd project_folder</span><br><span class="line">git init</span><br><span class="line">git add . (git add aFile)</span><br><span class="line">git commit -m &quot;Initial commit&quot;</span><br></pre></td></tr></table></figure>
+<a id="more"></a>
+
+<h3 id="Local-Git-Repo-gt-Remote-Git-Fork"><a href="#Local-Git-Repo-gt-Remote-Git-Fork" class="headerlink" title="Local Git Repo -&gt; Remote Git Fork"></a>Local Git Repo -&gt; Remote Git Fork</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git remote add origin git@github.com:xxx&#x2F;xxx.git</span><br><span class="line">(git remote rm origin)</span><br><span class="line">git push -u origin master.</span><br></pre></td></tr></table></figure>
+<p>Update commit changes</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git status</span><br><span class="line">git add .</span><br><span class="line">git commit -m &quot;xxx&quot;</span><br><span class="line">git push -u origin master</span><br></pre></td></tr></table></figure>
+<h3 id="Remote-Git-Fork-gt-Local-Git-Repo"><a href="#Remote-Git-Fork-gt-Local-Git-Repo" class="headerlink" title="Remote Git Fork -&gt; Local Git Repo"></a>Remote Git Fork -&gt; Local Git Repo</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git pull origin master</span><br></pre></td></tr></table></figure>
+<p>Branch </p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git branch new_branch</span><br><span class="line">git checkout -b new_branch</span><br></pre></td></tr></table></figure>
+
+<p>Merge Branch</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git checkout branch_1</span><br><span class="line">git merge branch_2</span><br></pre></td></tr></table></figure>
+
+<p>Show All Branches</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git branch -a</span><br></pre></td></tr></table></figure>
+
+<h2 id="Kill-process"><a href="#Kill-process" class="headerlink" title="Kill process"></a>Kill process</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">lsof -i:Port</span><br><span class="line">Kill -9 PID</span><br></pre></td></tr></table></figure>
+<p>Script:</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#!&#x2F;bin&#x2F;bash</span><br><span class="line">lsof -i :4000 | awk &#39;&#123;print $2&#125;&#39;&gt; tmp</span><br><span class="line">pid&#x3D;$(awk &#39;NR&#x3D;&#x3D;2&#123;print&#125;&#39; tmp);</span><br><span class="line"># kill process if its PID exists</span><br><span class="line">if [  -n  &quot;$pid&quot;  ];  then</span><br><span class="line"> kill  -9  $pid;</span><br><span class="line">fi</span><br></pre></td></tr></table></figure>
+
+<h2 id="What-is-my-IP-Address"><a href="#What-is-my-IP-Address" class="headerlink" title="What is my IP Address?"></a>What is my IP Address?</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">curl https:&#x2F;&#x2F;ipinfo.io&#x2F;ip</span><br></pre></td></tr></table></figure>
+
+<h2 id="Download-and-Upload"><a href="#Download-and-Upload" class="headerlink" title="Download and Upload"></a>Download and Upload</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Remote &#x3D;&gt; Local: </span><br><span class="line">	scp -P port remoteuser@ip:file_path local_path</span><br><span class="line">Local &#x3D;&gt; Remote:</span><br><span class="line">	scp &#x2F;path&#x2F;to&#x2F;local&#x2F;file username@hostname:&#x2F;path&#x2F;to&#x2F;remote&#x2F;file</span><br><span class="line">Remote &#x3D;&gt; Remote</span><br><span class="line">	scp username1@hostname1:&#x2F;path&#x2F;to&#x2F;file username2@hostname2:&#x2F;path&#x2F;to&#x2F;other&#x2F;file</span><br></pre></td></tr></table></figure>
+
+<h2 id="Compress-and-Extract"><a href="#Compress-and-Extract" class="headerlink" title="Compress and Extract"></a>Compress and Extract</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">tar -zcvf xxx</span><br><span class="line">tar xvzf file.tar.gz</span><br></pre></td></tr></table></figure>
+<p><a href="https://www.jianshu.com/p/7104c1f57a8e" target="_blank" rel="noopener">See more</a></p>
+<h2 id="Vim-Editor"><a href="#Vim-Editor" class="headerlink" title="Vim Editor"></a>Vim Editor</h2><ul>
+<li>: 进入命令模式</li>
+<li>wq 保存&amp;退出</li>
+<li>/ 查找模式</li>
+<li>i 插入模式（插入结束Esc）</li>
+</ul>
+<h3 id="Copy-and-Paste"><a href="#Copy-and-Paste" class="headerlink" title="Copy and Paste"></a>Copy and Paste</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">copy the whole file :%w !pbcopy</span><br><span class="line">past from the clipboard :r !pbpaste</span><br></pre></td></tr></table></figure>
+
+<h3 id="Delete-lines"><a href="#Delete-lines" class="headerlink" title="Delete lines"></a>Delete lines</h3><p><a href="https://linoxide.com/linux-how-to/how-to-delete-line-vim-linux/" target="_blank" rel="noopener">Delete lines</a></p>
+<h3 id="More"><a href="#More" class="headerlink" title="More"></a>More</h3><p><img src="http://www.viemu.com/vi-vim-cheat-sheet.gif" alt="Cheat Sheet"><br><a href="https://danielmiessler.com/study/vim/" target="_blank" rel="noopener">Vim Tutorial</a></p>
+<h2 id="More-1"><a href="#More-1" class="headerlink" title="More"></a>More</h2><p><a href="https://juejin.im/post/5d6cb968e51d4561e721df3c" target="_blank" rel="noopener">https://juejin.im/post/5d6cb968e51d4561e721df3c</a></p>
+]]></content>
       <categories>
-          
-          <category> Linux </category>
-          
+        <category>Linux</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> linux </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>STATS- Descriptive Statistics</title>
+    <url>/2020/07/10/STATS-%20Descriptive%20Statistics/</url>
+    <content><![CDATA[<h1 id="STATS-Descriptive-Statistics"><a href="#STATS-Descriptive-Statistics" class="headerlink" title="STATS: Descriptive Statistics"></a>STATS: Descriptive Statistics</h1><h2 id="2-1-Summarizing-Categorical-Data"><a href="#2-1-Summarizing-Categorical-Data" class="headerlink" title="2.1 Summarizing Categorical Data"></a>2.1 Summarizing Categorical Data</h2><p>“<strong>nonoverlapping</strong> classes”.</p>
+<h3 id="Frequency-Distribution"><a href="#Frequency-Distribution" class="headerlink" title="Frequency Distribution"></a>Frequency Distribution</h3><h3 id="Relative-Frequency-and-Percent-Frequency-Distributions"><a href="#Relative-Frequency-and-Percent-Frequency-Distributions" class="headerlink" title="Relative Frequency and Percent Frequency Distributions"></a>Relative Frequency and Percent Frequency Distributions</h3><h3 id="Bar-Charts-amp-Pie-Charts"><a href="#Bar-Charts-amp-Pie-Charts" class="headerlink" title="Bar Charts &amp; Pie Charts"></a>Bar Charts &amp; Pie Charts</h3><h2 id="2-2-Summarizing-Quantitative-Data"><a href="#2-2-Summarizing-Quantitative-Data" class="headerlink" title="2.2 Summarizing Quantitative Data"></a>2.2 Summarizing Quantitative Data</h2><h3 id="Frequency-Distribution-1"><a href="#Frequency-Distribution-1" class="headerlink" title="Frequency Distribution"></a>Frequency Distribution</h3><p>The three steps necessary to define the classes for a frequency distribution with quantitative data are:</p>
+<ol>
+<li>Determine the number of nonoverlapping classes.<ul>
+<li>5~20 classes. (depends on the size of the data)</li>
+</ul>
+</li>
+<li>Determine the width of each class.<ul>
+<li>we recommend that the width be the same for each class.</li>
+<li>Approximate class <strong>width 􏰔 = Largest data value 􏰀- Smallest data value / Number of classes</strong> (can be rounded for convenience)</li>
+</ul>
+</li>
+<li>Determine the class limits.<br>(optional: class midpoint).</li>
+</ol>
+<h3 id="Relative-Frequency-and-Percent-Frequency-Distributions-1"><a href="#Relative-Frequency-and-Percent-Frequency-Distributions-1" class="headerlink" title="Relative Frequency and Percent Frequency Distributions"></a>Relative Frequency and Percent Frequency Distributions</h3><h3 id="Dot-Plot"><a href="#Dot-Plot" class="headerlink" title="Dot Plot"></a>Dot Plot</h3><h3 id="Histogram"><a href="#Histogram" class="headerlink" title="Histogram"></a>Histogram</h3><ul>
+<li>Left/Right/Symmetric skew</li>
+</ul>
+<h3 id="Cumulative-Distributions"><a href="#Cumulative-Distributions" class="headerlink" title="Cumulative Distributions"></a>Cumulative Distributions</h3><p>(&lt;= upper limit of each class)</p>
+<h3 id="Ogive"><a href="#Ogive" class="headerlink" title="Ogive"></a>Ogive</h3><h2 id="2-3-Exploratory-Data-Analysis-The-Stem-and-Leaf-Display"><a href="#2-3-Exploratory-Data-Analysis-The-Stem-and-Leaf-Display" class="headerlink" title="2.3 Exploratory Data Analysis: The Stem-and-Leaf Display"></a>2.3 Exploratory Data Analysis: The Stem-and-Leaf Display</h2><h2 id="2-4-Crosstabulations-and-Scatter-Diagrams"><a href="#2-4-Crosstabulations-and-Scatter-Diagrams" class="headerlink" title="2.4 Crosstabulations and Scatter Diagrams"></a>2.4 Crosstabulations and Scatter Diagrams</h2><h3 id="Crosstabulations"><a href="#Crosstabulations" class="headerlink" title="Crosstabulations"></a>Crosstabulations</h3>]]></content>
+  </entry>
+  <entry>
+    <title>Statistics for Business</title>
+    <url>/2020/07/08/Statistics%20for%20Business/</url>
+    <content><![CDATA[<h1 id="Statistics-for-Business"><a href="#Statistics-for-Business" class="headerlink" title="Statistics for Business"></a>Statistics for Business</h1><h1 id="Chapter-1-Data-and-Statistics"><a href="#Chapter-1-Data-and-Statistics" class="headerlink" title="Chapter 1 Data and Statistics"></a>Chapter 1 Data and Statistics</h1><h2 id="Philosophy-of-Statistics"><a href="#Philosophy-of-Statistics" class="headerlink" title="Philosophy of Statistics"></a>Philosophy of Statistics</h2><ul>
+<li>Bayesians: <strong>Belief</strong> question;</li>
+<li>Classical/Error statistics: <strong>decision</strong> question;</li>
+<li>Likelihood: <strong>evidence</strong> question;</li>
+<li>AIC: <strong>prediction</strong> question</li>
+</ul>
+<h2 id="Applications-in-Business-and-Economics"><a href="#Applications-in-Business-and-Economics" class="headerlink" title="Applications in Business and Economics"></a>Applications in Business and Economics</h2><h3 id="Accounting"><a href="#Accounting" class="headerlink" title="Accounting"></a>Accounting</h3><p>e.g. Client’s balance sheet acceptable? Sample.</p>
+<h3 id="Finance"><a href="#Finance" class="headerlink" title="Finance"></a>Finance</h3><p>e.g. Investment recommendations.<br>dividend yiled above average -&gt; maybe underpriced.</p>
+<h3 id="Marketing"><a href="#Marketing" class="headerlink" title="Marketing"></a>Marketing</h3><p>e.g. Manufacture purchase sales data -&gt; promotions.</p>
+<h3 id="Production"><a href="#Production" class="headerlink" title="Production"></a>Production</h3><p>e.g. x-bar chart control production process.</p>
+<h3 id="Economics"><a href="#Economics" class="headerlink" title="Economics"></a>Economics</h3><p>e.g. Make forecasts.</p>
+<ul>
+<li>Inflation rates</li>
+<li>Producer Price Index (PPI), the unemployment rates, manufacturing capacity utilization.</li>
+</ul>
+<h2 id="Data"><a href="#Data" class="headerlink" title="Data"></a>Data</h2><ul>
+<li>Q: What is data? What is not?</li>
+</ul>
+<p>Facts and figures. //so <strong>true and complete</strong> matters…</p>
+<p>(Below is not information, but the <em>features of data itself</em>.)</p>
+<h3 id="Elements-Variables-and-Observations"><a href="#Elements-Variables-and-Observations" class="headerlink" title="Elements, Variables, and Observations"></a>Elements, Variables, and Observations</h3><p>Any data, it’s very important to understand what it is about — variables.</p>
+<h3 id="Scales-of-Measurement"><a href="#Scales-of-Measurement" class="headerlink" title="Scales of Measurement"></a>Scales of Measurement</h3><ol>
+<li>Nominal (even numeric, still <strong>nominal</strong> data)</li>
+<li>Ordinal (<strong>properties</strong> of a categorical data: categorical + can be ranked)</li>
+<li>Interval scale (interval meaningful)</li>
+<li>Ratio scale</li>
+</ol>
+<h3 id="Categorical-and-Quantitative-Data"><a href="#Categorical-and-Quantitative-Data" class="headerlink" title="Categorical and Quantitative Data"></a>Categorical and Quantitative Data</h3><ul>
+<li>Categorical data: can be grouped as categories (See Chapter 2)<ul>
+<li>Arithmetic not meaningful.</li>
+</ul>
+</li>
+<li>Quantative data  (See Chapter 3)<ul>
+<li>Arithmetic meaningful.</li>
+</ul>
+</li>
+</ul>
+<h3 id="Cross-Sectional-and-Time-Series-Data"><a href="#Cross-Sectional-and-Time-Series-Data" class="headerlink" title="Cross-Sectional and Time Series Data"></a>Cross-Sectional and Time Series Data</h3><p>Cross-Sectional: at same time.</p>
+<h2 id="Data-Sources"><a href="#Data-Sources" class="headerlink" title="Data Sources"></a>Data Sources</h2><h3 id="Existing-Sources"><a href="#Existing-Sources" class="headerlink" title="Existing Sources"></a>Existing Sources</h3><p>Data companies: Dun &amp; Bradstreet, Bloomberg, and Dow Jones &amp; Company are three firms that provide extensive business database services to clients.</p>
+<p>Internet</p>
+<p>Government agencies: e.g. the U.S. Department of Labor maintains considerable data on employment rates, wage rates, size of the labor force, and union membership.</p>
+<h3 id="Statistical-Studies"><a href="#Statistical-Studies" class="headerlink" title="Statistical Studies"></a>Statistical Studies</h3><ul>
+<li>Experimental<ul>
+<li>identify variables (interests)</li>
+<li>effects between variables</li>
+<li>control</li>
+</ul>
+</li>
+<li>Observational<ul>
+<li>no attempt to control the variables of interest</li>
+</ul>
+</li>
+</ul>
+<p>Data acquisition: requirements + time cost matters.</p>
+<h3 id="Data-Acqusition-Errors"><a href="#Data-Acqusition-Errors" class="headerlink" title="Data Acqusition Errors"></a>Data Acqusition Errors</h3><p>Wrong data worse than no data!<br>Experienced data analysts <strong>take great care</strong> in collecting and recording data to ensure that errors are not made.</p>
+<ul>
+<li>Error during collection<ul>
+<li>Interviewee misinterpret the questions;</li>
+<li>Recording error;</li>
+<li>Outliers;</li>
+<li>Meaningless error (e.g. 20+ years old people has 20 years work experience);</li>
+</ul>
+</li>
+</ul>
+<h2 id="Descriptive-Statistics"><a href="#Descriptive-Statistics" class="headerlink" title="Descriptive Statistics"></a>Descriptive Statistics</h2><p>bar chart, histogram, etc.</p>
+<h2 id="Statistical-Inferences"><a href="#Statistical-Inferences" class="headerlink" title="Statistical Inferences"></a>Statistical Inferences</h2><ul>
+<li>Population and sample</li>
+<li>Census</li>
+<li>Sample survey</li>
+<li>Statistical inference<ul>
+<li>Population mean is unknown -&gt; Sample mean is known (Sample mean =&gt; Population mean)</li>
+<li>Margin of error? Confidence level?</li>
+</ul>
+</li>
+</ul>
+<h2 id="Computers-and-Statistical-Analysis"><a href="#Computers-and-Statistical-Analysis" class="headerlink" title="Computers and Statistical Analysis"></a>Computers and Statistical Analysis</h2><h2 id="Data-Mining"><a href="#Data-Mining" class="headerlink" title="Data Mining"></a>Data Mining</h2><p><strong>data warehousing</strong><br>One of the definition of data mining: </p>
+<blockquote>
+<p>the <strong>automated</strong> extraction of <strong>predictive</strong> information from (large) databases.</p>
+</blockquote>
+<p>Relationships in the data and predicting future outcomes.<br>Be careful over-fitting.</p>
+<h2 id="Ethical"><a href="#Ethical" class="headerlink" title="Ethical"></a>Ethical</h2><p>to be <strong>fair, thorough, objective, and neutral</strong> as you collect data, conduct analyses, make oral presentations, and present written reports containing information developed.</p>
+<p><strong>When you see statistics in</strong> newspapers, on television, on the Internet, and so on, it is a good idea to view the information with <strong>some scepticism</strong>, always being aware of the source as well as the<br>purpose and objectivity of the statistics provided.</p>
+<p>e.g. Misleading analysis. Bulbs example. Should stated.</p>
+<blockquote>
+<p>statistical practitioners should avoid any tendency to slant statistical work toward <strong>predetermined</strong> outcomes.<br>e.g. unrepresentative samples are used to make claims.</p>
+</blockquote>
+]]></content>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/07/10/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+  </entry>
 </search>
